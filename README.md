@@ -1,6 +1,6 @@
 # MongoDB, Express, and Node (MEN) stack setup
 
-Youtube - React Development Environment Setup From Scratch With TypeScript, Webpack, and Babel
+Youtube - MongoDB, Express, and Node (MEN) stack setup from scratch with Webpack and Babel
 
 ## Installation
 
